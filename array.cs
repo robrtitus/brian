@@ -14,7 +14,10 @@ namespace ConsoleApp1
             {
 
                 //https://www.w3resource.com/csharp-exercises/array/csharp-array-exercise-8.php 
-
+                // You are statically using the number 5 for these arrays
+                // while also asking the user the length of your array
+                // try to change your code to take the input from line 33
+                // to be the length of your initial arrays
                 int[] arr1 = new int[5];
                 int[] fr1 = new int[5];
                 int n, i, j, ctr;
